@@ -1,0 +1,17 @@
+{
+  "name" : "onehourtranslation/mailchimp",
+	"type": "library",
+    "description": "Fork of MCAPI class - MailChimp API 1.3 for PHP",
+    "authors": [
+        {
+            "name": "Oren Yagev",
+            "email": "oren@onehourtranslation.com",
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "MailChimp": "src/MCAPI.php"
+        }
+    }
+}
